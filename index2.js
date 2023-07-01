@@ -1,1 +1,1 @@
-alert ("hola gente boba!")
+alert ("hola gente boba, pero es chiste.!")
